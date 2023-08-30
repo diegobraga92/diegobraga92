@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @diegobraga92
-- 👀 I’m interested in C++, Python and a little of everything
-- 🌱 I’m currently learning to improve my Algorithm and Data Structures skills
+- 👀 I’m interested in C++, Rust, Python and a little of everything
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me diego.braga92@outlook.com
 
