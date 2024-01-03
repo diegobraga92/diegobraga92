@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegobraga92
-- 👀 I’m interested in C++, Rust, Python and a little of everything
-- 💞️ I’m looking to collaborate on any project
+- 👀 I’m interested in C++, Rust, Python, Go and a little of everything
+- 💞️ I’m happy to collaborate on any project
 - 📫 How to reach me diego.braga92@outlook.com
 
 <!---
